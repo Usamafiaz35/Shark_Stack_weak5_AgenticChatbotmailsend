@@ -1,0 +1,4 @@
+openai-agents>=0.1.0
+python-dotenv>=1.0.0
+rich>=13.7.0
+streamlit>=1.36.0
